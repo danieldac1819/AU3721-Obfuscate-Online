@@ -56,3 +56,9 @@ Truy cập ngay các công cụ trực tuyến **KHÔNG CẦN CÀI ĐẶT**:
 Giao diện phiên bản miễn phí trực tuyến:
 <img width="1920" height="1028" alt="image" src="https://github.com/user-attachments/assets/9618c5f0-320a-4f71-a1d3-b7206111221a" />
 
+Giao diện phiên bản Premium Online
+<img width="1920" height="1031" alt="ScreenShot_20260306191700" src="https://github.com/user-attachments/assets/56f9d732-a7a2-4382-92f5-c6e0cac7c659" />
+
+Giao diện phiên bản Premium Offline
+<img width="1030" height="797" alt="ScreenShot_20260306192747" src="https://github.com/user-attachments/assets/262534ce-5046-4576-aca6-64a76320515b" />
+
